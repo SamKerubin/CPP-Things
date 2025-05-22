@@ -63,7 +63,7 @@ int main()
     void* voidPtr = &var;
     cout << voidPtr << " " << &voidPtr << endl;
     
-    int *arr = (int *)malloc(5 * sizeof(int));
+    int* arr = (int *)malloc(5 * sizeof(int));
     for (int i = 0 ; i < 5 ; i++)
     {
         arr[i] = i + 1;
