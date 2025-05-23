@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\MyAddProject.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\MyAddProject.dir/objects.a @CMakeFiles\MyAddProject.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\MyAddProject.dir/objects.a -Wl,--no-whole-archive -o MyAddProject.exe -Wl,--out-implib,libMyAddProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MyAddProject.dir\linkLibs.rsp

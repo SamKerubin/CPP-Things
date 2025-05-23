@@ -59,5 +59,6 @@
         "optional": "cpp",
         "variant": "cpp",
         "vector": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "C:/Users/pc/Documents/GitHub/CPP-Things/BasicSyntax/OOP/HeaderFiles"
 }

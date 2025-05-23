@@ -30,7 +30,7 @@
     And then, in some_function you call lambda like this:
 
     lambda(); <- calls the callable
-*/
+    */
 
 void someFunction(std::function<void()> callable)
 {
