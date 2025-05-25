@@ -58,7 +58,9 @@
         "algorithm": "cpp",
         "optional": "cpp",
         "variant": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "fstream": "cpp",
+        "filesystem": "cpp"
     },
     "cmake.sourceDirectory": "C:/Users/pc/Documents/GitHub/CPP-Things/BasicSyntax/OOP/HeaderFiles"
 }
