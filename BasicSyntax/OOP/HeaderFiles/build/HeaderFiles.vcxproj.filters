@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\pc\Documents\GitHub\CPP-Things\BasicSyntax\OOP\HeaderFiles\add.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pc\Documents\GitHub\CPP-Things\BasicSyntax\OOP\HeaderFiles\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pc\Documents\GitHub\CPP-Things\BasicSyntax\OOP\HeaderFiles\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2EFD3A77-060E-3A95-8DB1-FE276AD6BCAC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

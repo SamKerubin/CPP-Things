@@ -1,0 +1,3 @@
+C:/Users/pc/Documents/GitHub/CPP-Things/Exercises/build/CMakeFiles/Exercises.dir
+C:/Users/pc/Documents/GitHub/CPP-Things/Exercises/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pc/Documents/GitHub/CPP-Things/Exercises/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,3 @@
+C:/Users/pc/Documents/GitHub/CPP-Things/BasicSyntax/OOP/HeaderFiles/build/CMakeFiles/HeaderFiles.dir
+C:/Users/pc/Documents/GitHub/CPP-Things/BasicSyntax/OOP/HeaderFiles/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pc/Documents/GitHub/CPP-Things/BasicSyntax/OOP/HeaderFiles/build/CMakeFiles/ZERO_CHECK.dir

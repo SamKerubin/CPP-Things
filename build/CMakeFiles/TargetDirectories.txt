@@ -1,3 +1,0 @@
-C:/Users/pc/Documents/GitHub/CPP-Things/build/CMakeFiles/HeaderFiles.dir
-C:/Users/pc/Documents/GitHub/CPP-Things/build/CMakeFiles/edit_cache.dir
-C:/Users/pc/Documents/GitHub/CPP-Things/build/CMakeFiles/rebuild_cache.dir

@@ -60,7 +60,23 @@
         "variant": "cpp",
         "vector": "cpp",
         "fstream": "cpp",
-        "filesystem": "cpp"
+        "filesystem": "cpp",
+        "chrono": "cpp",
+        "codecvt": "cpp",
+        "cwctype": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "iomanip": "cpp",
+        "numbers": "cpp",
+        "numeric": "cpp",
+        "queue": "cpp",
+        "random": "cpp",
+        "ratio": "cpp",
+        "span": "cpp",
+        "sstream": "cpp",
+        "memory_resource": "cpp",
+        "string_view": "cpp",
+        "text_encoding": "cpp"
     },
-    "cmake.sourceDirectory": "C:/Users/pc/Documents/GitHub/CPP-Things/BasicSyntax/OOP/HeaderFiles"
+    "cmake.sourceDirectory": "C:/Users/pc/Documents/GitHub/CPP-Things/Exercises"
 }
