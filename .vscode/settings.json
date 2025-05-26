@@ -76,7 +76,10 @@
         "sstream": "cpp",
         "memory_resource": "cpp",
         "string_view": "cpp",
-        "text_encoding": "cpp"
+        "text_encoding": "cpp",
+        "map": "cpp",
+        "xtree": "cpp",
+        "regex": "cpp"
     },
     "cmake.sourceDirectory": "C:/Users/pc/Documents/GitHub/CPP-Things/Exercises"
 }

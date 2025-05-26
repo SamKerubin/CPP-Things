@@ -1,0 +1,10 @@
+^C:\USERS\PC\DOCUMENTS\GITHUB\CPP-THINGS\EXERCISES\STUDENTS\BUILD\CMAKEFILES\6F56DCFE747EF3AA67D633BB3A85E288\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/pc/Documents/GitHub/CPP-Things/Exercises/Students -BC:/Users/pc/Documents/GitHub/CPP-Things/Exercises/Students/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/pc/Documents/GitHub/CPP-Things/Exercises/Students/build/Students.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

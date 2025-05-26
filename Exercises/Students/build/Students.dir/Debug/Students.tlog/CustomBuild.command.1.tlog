@@ -1,0 +1,10 @@
+^C:\USERS\PC\DOCUMENTS\GITHUB\CPP-THINGS\EXERCISES\STUDENTS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/pc/Documents/GitHub/CPP-Things/Exercises/Students -BC:/Users/pc/Documents/GitHub/CPP-Things/Exercises/Students/build --check-stamp-file C:/Users/pc/Documents/GitHub/CPP-Things/Exercises/Students/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
